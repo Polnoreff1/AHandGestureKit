@@ -1,7 +1,7 @@
 # AHandGestureKit
 
 <div align="center">
-  ![AHandGestureKitIcon](https://github.com/user-attachments/assets/eee7d139-d126-46d9-80ca-c2099e4788bb)
+ AHandGestureKit
 
   
   [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
