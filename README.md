@@ -1,7 +1,7 @@
 # AHandGestureKit
 
 <div align="center">
-  <img src="path/to/your/logo.png" alt="AHandGestureKit Logo" width="200"/>
+  <img src="https://drive.google.com/file/d/1jHytMA2HIyeTW3LoqZFVu0Yehcpxs4Z_/view?usp=sharing" alt="AHandGestureKit Logo" width="200"/>
   
   [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
   [![Platform](https://img.shields.io/badge/Platform-iOS%2014.0+-blue.svg)](https://developer.apple.com/ios/)
